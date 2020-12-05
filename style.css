@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background: #FFFFFF;
+    background-repeat: no-repeat;
+}
+
+#1stimage {
+    border-radius: 100px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    top: 0px;
+    right: 30px;
+    cursor: pointer;
+    color: red;
+    z-index: 10;
+    position: absolute;
+    display: inline-flex;
+}
+
+.font {
+    font-family: 'Shadows Into Light', cursive;
+    }
+
+.link:hover {
+    background-color: yellow;
+}
+.link{
+    padding-right: 15px;
+}
+#hobby{
+    margin-top: 50px;
+}
